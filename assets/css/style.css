@@ -15,6 +15,7 @@
   border-radius: 50% !important;
 }
 
+
 .profile-pic img {
   width: 100%;
   height: auto;
@@ -312,6 +313,7 @@ h3 {
   height: 100vh;
 }
 
+
 /* Original */
 
 /* #intro.section {
@@ -399,6 +401,7 @@ h3 {
 .card .card-content p {
   padding: 5px 0 0;
 }
+
 
 .card h5 {
   font-size: 1.5rem;
